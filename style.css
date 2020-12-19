@@ -64,10 +64,6 @@ color: green !important;
 text-align: center;
 }
 
-#iconLinks {
-padding: 5%
-}
-
 #contactDiv {
     background-color: white;
     width: 100%;
@@ -92,4 +88,8 @@ padding: 5%
 footer {
     padding: 2%;
     color:green;
+}
+
+#comingSoon {
+    height: 32%;
 }
